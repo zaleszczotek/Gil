@@ -4,9 +4,9 @@ SCADA
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/zaleszczotek/Gil/blob/main/LICENSE) file for details.
 
 ### Commercial License
 
-For commercial use and alternative licensing options, please see the [COMMERCIAL_LICENSE](COMMERCIAL_LICENSE.txt) file or contact us at [grzegorz.bylica@gmail.com].
+For commercial use and alternative licensing options, please see the [COMMERCIAL_LICENSE](https://github.com/zaleszczotek/Gil/blob/main/COMMERCIAL_LICENSE.txt) file or contact us at [grzegorz.bylica@gmail.com].
 
